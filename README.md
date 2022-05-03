@@ -1,0 +1,2 @@
+# Creacion-de-una-lista-de-productos-filtrables-amp
+¡Ahora es el momento de agregar la página de productos a nuestro ejemplo de Chico's Cheese Bikes Glitch! Ya debes tener el código de servidor necesario para completar este ejercicio (Taller 2). Todo lo que necesitas hacer es asegurarse de haber seguido las instrucciones README para configurar la dirección en sus variables de entorno. Si aún no lo has hecho, el sitio que crearás no podrá descargar información del servidor
