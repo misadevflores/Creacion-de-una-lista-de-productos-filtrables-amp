@@ -1,4 +1,43 @@
 {
+  "category":bicycle [
+    {
+      "id": "cheddar-chaser",
+      "type": "bicycle",
+      "url": "/pages/cheddar-chaser.html",
+      "name": "Cheddar Chaser",
+      "img": "https://cdn.glitch.com/d7f46a57-0ca4-4cca-ab0f-69068dec6631%2Fcheddar-chaser.jpg?1540228205366",
+      "stars": "5.0",
+      "price": 599,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "id": "ricotta-racer",
+      "type": "bicycle",
+      "url": "/pages/ricotta-racer.html",
+      "name": "Ricotta Racer",
+      "img": "https://cdn.glitch.com/d7f46a57-0ca4-4cca-ab0f-69068dec6631%2Fricotta-racer.jpg?1540228217746",
+      "stars": "5.0",
+      "price": 399,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "id": "parmesan-pacer",
+      "type": "bicycle",
+      "url": "/pages/parmesan-pacer.html",
+      "name": "Parmesan Pacer",
+      "img": "https://cdn.glitch.com/d7f46a57-0ca4-4cca-ab0f-69068dec6631%2Fparmesan-pacer.jpg?1540228219981",
+      "stars": "4.0",
+      "price": 299,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    }
+    
+  ]
+}
+
+
+
+
+{
   "items": [
     {
       "id": "cheddar-chaser",
