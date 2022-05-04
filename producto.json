@@ -1,6 +1,6 @@
 {
-  "category":bicycle,
-  "items":{
+  "category":'bicycle',
+  "items":[
     {
       "id": "cheddar-chaser",
       "type": "bicycle",
@@ -32,7 +32,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
     }
     
-}
+    ]
 }
 
 
