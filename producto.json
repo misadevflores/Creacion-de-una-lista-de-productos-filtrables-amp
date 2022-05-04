@@ -1,5 +1,6 @@
 {
-  "category":bicycle, [
+  "category":bicycle,
+  "items":[
     {
       "id": "cheddar-chaser",
       "type": "bicycle",
